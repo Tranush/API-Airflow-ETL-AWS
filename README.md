@@ -10,8 +10,7 @@ Through this hands-on experience, I've not only mastered the intricacies of API 
 Curious to explore the code behind this project? Check out the GitHub repository here: https://github.com/Tranush/API-Airflow-ETL-AWS
 
 Eager to delve deeper into the world of APIs, workflow automation, and cloud hosting? Let's connect and discuss further! #APIs #Airflow #Python #AWS #DataEngineering
-
-##Commands to run in AWS Terminal
+Commands to run in AWS Terminal
 sudo apt update
 sudo apt install python3-pip
 sudo apt install python3-venv
