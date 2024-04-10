@@ -1,4 +1,4 @@
-## API-Airflow-ETL-AWS
+# API-Airflow-ETL-AWS
 Feeling a bit puzzled about how APIs work or the intricacies of hosting applications like Apache Airflow on AWS & functionality of AWS S3? Look no further! I'm thrilled to share my recent project journey with you, tailored specifically for those seeking clarity in these areas.
 
 Excited to unveil this beginner project to all those people who want to begin journey in #DataEngineering and learn about APIs, JSON handling, and Airflow workflow construction using Python, culminating in hosting Airflow on an AWS EC2 server! 🚀
@@ -10,12 +10,4 @@ Through this hands-on experience, I've not only mastered the intricacies of API 
 Curious to explore the code behind this project? Check out the GitHub repository here: https://github.com/Tranush/API-Airflow-ETL-AWS
 
 Eager to delve deeper into the world of APIs, workflow automation, and cloud hosting? Let's connect and discuss further! #APIs #Airflow #Python #AWS #DataEngineering
-Commands to run in AWS Terminal
-sudo apt update
-sudo apt install python3-pip
-sudo apt install python3-venv
-python3 -m venv airflow_venv
-source airflow_venv/bin/activate
-sudo pip install pandas
-sudo pip  install s3fs
-airflow standalone
+
